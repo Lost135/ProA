@@ -1,8 +1,8 @@
 # ProA
 ## SimpleJavaWeb
-## 一个简单的javaWeb
+## 一个简单的JavaWeb
 ----
-###页面&功能
+### 页面&功能
 * 登陆页面
 * 列表页面
 * 分页
@@ -13,18 +13,18 @@
 * 屏蔽文字
 * 验证码
 ----
-###主要技术
+### 主要技术
 + 前端
- - js、html、css
- - bootstrap
- - EL、Jstl
+    - js、html、css
+    - bootstrap
+    - EL、Jstl
 + 服务器
- - tomcat
- - servlet、filter
- - session(验证码)、cookie(登录)
- - JDBCUtils
- - Druid
- - template
+    - tomcat
+    - servlet、filter
+    - session(验证码)、cookie(登录)
+    - JDBCUtils
+    - Druid
+    - template
 + 数据库
- - mysql
+    - mysql
 
