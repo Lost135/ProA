@@ -15,16 +15,16 @@
 ---
 ###主要技术
 + 前端
-- js、html、css
-- bootstrap
-- EL、Jstl
+ - js、html、css
+ - bootstrap
+ - EL、Jstl
 + 服务器
-- tomcat
-- servlet、filter
-- session(验证码)、cookie(登录)
-- JDBCUtils
-- Druid
-- template
+ - tomcat
+ - servlet、filter
+ - session(验证码)、cookie(登录)
+ - JDBCUtils
+ - Druid
+ - template
 + 数据库
-- mysql
+ - mysql
 
