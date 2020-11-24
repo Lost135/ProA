@@ -1,7 +1,7 @@
 # ProA
-##SimpleJavaWeb
-##一个简单的javaWeb
----
+## SimpleJavaWeb
+## 一个简单的javaWeb
+----
 ###页面&功能
 * 登陆页面
 * 列表页面
@@ -12,7 +12,7 @@
 * 简单查找
 * 屏蔽文字
 * 验证码
----
+----
 ###主要技术
 + 前端
  - js、html、css
